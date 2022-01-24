@@ -24,31 +24,14 @@ const otherList = ["tomatoes", "crackers", "soup", "chips"]
 
 // Provide a friendly output of the list
 // Add a bullet before each item
-// groceries.forEach(grocery => {
-//   console.log(`* ${grocery}`)
-// })
 
 // Sort the list alphabetically
 // Output the list
 
 // Add items to your shopping list
 // Loop until done
-// let input
-// do {
-//   input = prompt("What would you like to add?")
-//   groceries.push(input)
-// } while (input !== "done")
-// groceries.pop()
 
 // console.log(groceries)
-
-// let input
-// do {
-//   input = prompt("What would you like to add?")
-//   if (input !== "done") {
-//     groceries.push(input)
-//   }
-// } while (input !== "done")
 
 // I only have time to shop for items starting
 // with the letter C
